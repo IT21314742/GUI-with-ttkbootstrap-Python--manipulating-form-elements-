@@ -4,4 +4,4 @@ import ttkbootstrap as tb
 root = tb.Window(themename="superhero")
 
 #root = tk()
-root.title("TTk")
+root.title("TTk Bootstrap")
