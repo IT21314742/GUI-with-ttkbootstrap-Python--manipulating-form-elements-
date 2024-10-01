@@ -10,7 +10,7 @@ root.geometry('800x650')
 
 
 my_button = tb.Button(text="Hello World!", font=("Poppins", 18))
-my_button.pack(pa)
+my_button.pack(pad)
 
 
 root.mainloop()
