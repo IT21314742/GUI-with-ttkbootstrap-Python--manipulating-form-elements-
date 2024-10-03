@@ -14,6 +14,6 @@ my_button.pack(pady=40)
 
 #style
 my_style = tb.Style()
-my_style.configure('my.Tbtton', font=(Helve))
+my_style.configure('my.Tbtton', font=(Helvet))
 
 root.mainloop()
