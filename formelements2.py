@@ -14,6 +14,6 @@ my_button.pack(pady=40)
 
 #style
 my_style = tb.Style()
-my_style.configure('my')
+my_style.configure('my.Tbtton')
 
 root.mainloop()
