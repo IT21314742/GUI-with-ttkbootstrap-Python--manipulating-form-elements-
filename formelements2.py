@@ -9,7 +9,7 @@ root.title("TTk Bootstrap!")
 root.geometry('800x650')
 
 
-my_button = tb.Button(text="Hello World!", bootstyle="success" style="my.TButto")
+my_button = tb.Button(text="Hello World!", bootstyle="success" style="my.TButton")
 my_button.pack(pady=40)
 
 #style
