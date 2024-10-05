@@ -10,7 +10,7 @@ root.geometry('800x650')
 
 #style
 my_style = tb.Style()
-my_style.configure('success.O.TButton', font=("Helvetica", 18))
+my_style.configure('success.Ou.TButton', font=("Helvetica", 18))
 
 
 my_button = tb.Button(text="Hello World!",
