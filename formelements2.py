@@ -15,7 +15,7 @@ my_style.configure('success.Outline.TButton', font=("Helvetica", 18))
 
 my_button = tb.Button(text="Hello World!",
                       bootstyle="success",
-                      style="success.Update.TButton", width=)
+                      style="success.Update.TButton", width=20)
 
 my_button.pack(pady=40)
 
